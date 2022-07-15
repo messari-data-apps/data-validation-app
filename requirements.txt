@@ -1,0 +1,9 @@
+subgrounds
+streamlit
+pandas
+requests
+datetime
+plotly
+pandas_profiling
+streamlit_pandas_profiling 
+flatdict
